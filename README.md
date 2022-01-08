@@ -7,6 +7,5 @@ Design using java
 
 
 
-Reference:
-============
+# Reference:
 https://www.geeksforgeeks.org/design-a-chess-game/
